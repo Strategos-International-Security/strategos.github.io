@@ -7,8 +7,7 @@ body {
     background-image: url(/images/Diseño\ sin\ título.png);
     background-repeat: space;
     background-position: 1000px;
-    background-size: 28%;
-    
+    background-size: 28%;   
 }
 
 header {
@@ -21,12 +20,13 @@ header {
     background-image: url(/images/circulo_negro.png);
     background-repeat: no-repeat;
     background-size: 150px;
-
 }
-#inicio{
+
+#inicio {
     height: 250px;
 }
-#contacte{
+
+#contacte {
     height: 250px;
 }
 
@@ -44,14 +44,13 @@ section {
     width: 400px;
     display: block;
     margin-right: 700px;
-    text-align: center;
-    
-            
+    text-align: center;            
 }
-section h2{
+section h2 {
     color: white;
 }
-section p{
+
+section p {
     color: white;
 }
 
@@ -59,27 +58,24 @@ footer {
     text-align: center;
     padding: 10px;
     color: white;
-
 }
 
-header img{
-    float: right;width: 115px;
-    
-    
+header img {
+    float: right;width: 115px; 
 }
 
 header h1{
     -webkit-text-stroke: 2px #747474;
 }
-footer{
+
+footer {
     margin: 0 auto;
     padding: 5px;
     background-color: #797979;
     border: 5px solid #464545;
-    font-size: smaller;
-    
-    
+    font-size: smaller;   
 }
-a{
+
+a {
     color: white;
 }
