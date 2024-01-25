@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-image: url(Diseño\ sin\ título.png);
+    background-image: url(/images/Diseño\ sin\ título.png);
     background-repeat: space;
     background-position: 1000px;
     background-size: 28%;
@@ -18,7 +18,7 @@ header {
     justify-content: center;
     padding: 10px;
     height: 90px;
-    background-image: url(circulo_negro.png);
+    background-image: url(/images/circulo_negro.png);
     background-repeat: no-repeat;
     background-size: 150px;
 
