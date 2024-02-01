@@ -25,6 +25,9 @@ header {
 header h1{
     color: white;
 }
+header button{
+    font-size: medium;
+}
 section {
     
     border-radius: 50px;

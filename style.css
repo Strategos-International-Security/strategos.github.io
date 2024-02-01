@@ -17,11 +17,24 @@ header {
     text-align: center;
     justify-content: center;
     padding: 10px;
-    height: 90px;
+    height: 96px;
     background-image: url(circulo_negro.png);
     background-repeat: no-repeat;
     background-size: 150px;
+    
 
+}
+
+header button{
+
+    background-color: #ffffff;
+    margin-left: 100px;
+    margin-right:70px ;
+    font-size:larger;
+}
+
+header h1{
+    -webkit-text-stroke: 2px #747474;
 }
 #inicio{
     height: 250px;
@@ -54,32 +67,28 @@ section h2{
 section p{
     color: white;
 }
-
-footer {
-    text-align: center;
-    padding: 10px;
-    color: white;
-
+section img{
+    margin-top: 15px;
 }
 
-header img{
-    float: right;width: 115px;
-    
-    
-}
 
-header h1{
-    -webkit-text-stroke: 2px #747474;
-}
 footer{
     margin: 0 auto;
-    padding: 5px;
+    padding: 0%;
     background-color: #797979;
     border: 5px solid #464545;
-    font-size: smaller;
-    
+    font-size: medium;
+    text-align: end;
+    height: 62px;
+    text-align: calc();
     
 }
+
+footer a{
+    font-size: medium;
+    color: yellow;
+    /*padding: 0px 0px 0px 0px;*/
+}
 a{
-    color: white;
+    color: black;
 }
