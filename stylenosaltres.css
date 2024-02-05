@@ -1,0 +1,138 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    display: block;
+
+ 
+}
+header {
+    background:linear-gradient(to right,black,white);
+    text-decoration: double;
+    text-align: center;
+    padding: 1px;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    
+    
+    
+}
+header h1{
+    color: white;
+}
+header button{
+    font-size: medium;
+}
+section {
+    
+    border-radius: 50px;
+    background-color:#333;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 100px;
+    margin-top: 150px;
+    margin-left: 500px;
+    color: white;
+    width: 44%;
+    height: 250px;
+    display:block
+    
+}
+section h2{
+    text-align: center;
+    color: white;
+}
+
+#section1{
+    text-align: center;
+    height: 150px;
+}
+
+#section2{
+    
+    height: min-content;
+    display: block;
+    margin-top: 0%;
+
+}
+#section2 h2{
+    margin-top: 20px;
+    height: min-content;
+    text-align: center;
+  
+}
+#section2 img{
+   
+    width: 680px; /* ajusta el ancho según sea necesario */
+    height: 300px; /* ajusta la altura según sea necesario */
+    overflow: visible;    
+    margin-left: 57px;
+
+}
+#section3{
+    height: min-content;
+    margin-top: 15px;
+    
+
+}
+#section3 img{
+    width: 170px; /* ajusta el ancho según sea necesario */
+    height: 142px; /* ajusta la altura según sea necesario */
+    overflow: scroll;
+    margin-left: 330px;
+
+}
+
+h2{
+    background-color: gray;
+    color: #eedb9f;
+    text-decoration: double;
+    text-align:left;
+    padding: 10px;
+    border-radius: 30px;
+}
+button {
+   background-color: #3b3b3b;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 70px;
+    margin-right: 40px;
+    
+}
+h1{
+    font-weight: bolder;
+    -webkit-text-stroke: 2px #3b3b3b; /* Grosor y color del borde */
+    color: black;
+    
+    border-radius: 10px;
+    text-align: center;
+}
+a{
+    color: #fffefe;
+}
+p{
+  justify-content: center;
+  padding: 10px;  
+}
+footer{
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #797979;
+    border: 5px solid #464545;
+    font-size: smaller;
+    text-align: center;
+    
+    
+    
+    
+}
+
+
