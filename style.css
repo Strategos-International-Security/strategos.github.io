@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(Diseño\ sin\ título.png);
+    background-repeat: space;
+    background-position: 1000px;
+    background-size: 28%;
+    
+}
+
+header {
+    background-color: gray;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    height: 96px;
+    background-image: url(circulo_negro.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    
+
+}
+
+header button{
+
+    background-color: #ffffff;
+    margin-left: 100px;
+    margin-right:100px ;
+    font-size:larger;
+}
+
+header h1{
+    -webkit-text-stroke: 2px #747474;
+}
+#inicio{
+    height: 250px;
+}
+#contacte{
+    height: 250px;
+}
+
+section a {
+    color: #000000;
+}
+
+section {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #222222;
+    border: 5px solid #000000;
+    border-style: ridge;
+    height: 130px;
+    width: 400px;
+    display: block;
+    margin-right: 700px;
+    text-align: center;
+    
+            
+}
+section h2{
+    color: white;
+}
+section p{
+    color: white;
+}
+section img{
+    margin-top: 15px;
+}
+
+
+footer{
+    margin: 0 auto;
+    padding: 0%;
+    background-color: #797979;
+    border: 5px solid #464545;
+    font-size: medium;
+    text-align: end;
+    height: 62px;
+    text-align: calc();
+    
+}
+
+footer a{
+    font-size: medium;
+    color: yellow;
+    /*padding: 0px 0px 0px 0px;*/
+}
+a{
+    color: black;
+}
