@@ -36,11 +36,7 @@ section h2{
     display: block;
     height: 899px;
 }
-#section1{
-    background-image: url(Fncy.png);
-    background-repeat: space;
-    
-}
+
 #section1 p{
     margin-top:140px;
 }
