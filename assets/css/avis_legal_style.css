@@ -1,0 +1,16 @@
+.privacy_policy {
+    padding-top: 100px;
+}
+
+.privacy_policy * p, .privacy_policy * h2, .privacy_policy * ul {
+    text-align: left;
+}
+
+.privacy_policy * h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.privacy_policy * ul {
+    margin-left: 50px;
+}
